@@ -1,0 +1,50 @@
+Last Updated: 02-01-2026
+
+This Privacy Policy describes the policies of SRV Open Labs ("We", "Us", or "Our") regarding the collection and use of information.
+
+We are committed to protecting your privacy. The core principle of our Service is simplicity: Our software is fully offline and does not require or collect any personal details to operate.
+
+1. Interpretation and Definitions
+Company: Refers to SRV Open Labs.
+
+Service: Refers to the Website and the downloadable Software.
+
+You: The individual accessing or using the Service.
+
+Software: Refers to the program provided by SRV Open Labs.
+
+2. Collecting and Using Your Personal Data
+A. Personal Data (Software)
+We collect NO personal data from the Software. Our typing software is designed to function entirely offline.
+
+No Registration Required: You do not need to create an account, provide an email, or enter a phone number to use the software.
+
+No Tracking: We do not track your keystrokes, the documents you type, or your usage habits. All data remains locally on your device.
+
+B. Usage Data & Caches (Website Only)
+While the software collects nothing, our Website requires basic technical data to function correctly during the download process.
+
+Browser Cache & Cookies: We use local cache files and essential cookies to ensure the website loads quickly and runs smoothly on your browser.
+
+Server Logs: Standard server logs may capture your IP address and browser type for security purposes (to prevent DDoS attacks or abuse of the download link), but this is not linked to any personal profile.
+
+3. Data Retention, Transfer, and Deletion
+Because we do not collect your personal information, many standard privacy clauses do not apply to us:
+
+No Data Retention: We do not store any user profiles or personal databases.
+
+No Data Transfer: Your data is never transferred to other servers or third parties because we do not possess it.
+
+No Deletion Needed: Since we do not hold your data, there is no need to request its deletion. If you wish to stop using the Service, simply uninstall the software and clear your browser cache.
+
+4. Security
+While we do not store user data, we prioritize the security of our Software Installer. We ensure that the file provided for download is free from viruses and malware to protect your local device.
+
+5. Links to Other Websites
+Our Service may contain links to third-party websites (e.g., legacy software repositories). We have no control over and assume no responsibility for the content or privacy policies of any third-party sites or services.
+
+6. Changes to this Privacy Policy
+We may update our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, You can contact us.

@@ -1,0 +1,61 @@
+Last Updated: 02-01-2026
+
+Welcome to www.srvbengali.com 
+By accessing this website and downloading software provided by SRV Open Labs ("we," "us," or "our"), you agree to comply with and be bound by the following Terms and Conditions. If you do not agree with these terms, please do not download or use our software.
+
+1. License Grant
+Subject to your compliance with these Terms, SRV Open Labs grants you a limited, non-exclusive, non-transferable, and revocable license to download, install, and use the software for personal and non-commercial purposes. This is a license, not a sale; you do not acquire ownership rights to the software.
+
+2. Intellectual Property
+All content, software, graphics, and code available on this website are the intellectual property of SRV Open Labs and are protected by copyright, trademark, and other intellectual property laws. You acknowledge that the software contains proprietary trade secrets of SRV Open Labs.
+
+3. Prohibited Use & Commercial Restrictions
+Strictly Note: Our software is provided for free download for end-users.
+
+No Resale: Selling, renting, leasing, or sub-licensing this software—whether in its original form or a modified version—without the express written consent of SRV Open Labs is strictly prohibited.
+
+No Unauthorized Distribution: You may not redistribute this software on other websites, mediums, or physical media for commercial gain.
+
+Consequences: Any unauthorized sale or commercial distribution of SRV Open Labs’s software is a violation of these terms and constitutes a punishable offense under applicable laws. We reserve the right to take legal action against such violations.
+
+4. User Conduct
+By using this website and software, you agree NOT to:
+
+Reverse engineer, decompile, or disassemble the software.
+
+Use the software for any unlawful purpose or to violate any local, state, or international law.
+
+Distribute viruses, malware, or any other harmful code through our platform.
+
+Attempt to gain unauthorized access to our website servers or data.
+
+5. Disclaimer of Warranties
+The software is provided on an "AS IS" and "AS AVAILABLE" basis. SRV Open Labs makes no representations or warranties of any kind, express or implied, regarding the operation of the software or the information, content, or materials included.
+
+We do not guarantee that the software will be error-free, uninterrupted, or compatible with all devices.
+
+You use the software at your own risk.
+
+6. Limitation of Liability
+To the fullest extent permitted by law, SRV Open Labs shall not be liable for any direct, indirect, incidental, special, or consequential damages resulting from:
+
+The use or inability to use the software.
+
+Any data loss or system failure.
+
+Any unauthorized access to or alteration of your transmissions or data.
+
+7. Updates and Changes to Terms
+We reserve the right to modify these Terms and Conditions at any time. Any changes will be effective immediately upon posting on this website. Your continued use of the software after any changes signifies your acceptance of the new terms.
+
+8. Third-Party Links
+Our website may contain links to third-party websites (e.g., legacy software downloads). These sites are not under our control, and we are not responsible for their content or safety. Accessing third-party links is done at your own risk.
+
+9. Termination
+We reserve the right to terminate your license and access to the website immediately, without prior notice, if you breach any of these Terms, specifically regarding the unauthorized sale or modification of our software.
+
+10. Governing Law and Jurisdiction
+These Terms and Conditions are governed by and construed in accordance with the laws of India. You agree that any legal action or dispute arising out of or relating to these terms shall be settled exclusively in the appropriate courts of Kolkata, West Bengal.
+
+Contact Us
+If you have any questions regarding these Terms, please contact us.

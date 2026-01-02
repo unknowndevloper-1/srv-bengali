@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - SRV Bengali</title>
+    <link rel="icon" type="image/png" href="assets/logo.png">
+    <link rel="stylesheet" href="style.css">
+    
+    <style>
+        .iframe-container {
+            margin-top: 70px; 
+            height: 80vh;
+            width: 100%;
+            border: none;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <header id="main-header">
+        <div class="logo-container">
+            <a href="index.html" style="text-decoration:none; display:flex; align-items:center;">
+                <img src="assets/logo.png" alt="Logo" class="logo">
+                <span class="site-name">SRV Bengali</span>
+            </a>
+        </div>
+        <nav>
+            <a href="about-us.html" class="nav-btn">About Us</a>
+            <a href="join-us.html" class="nav-btn join-btn">Join Us</a>
+        </nav>
+    </header>
+
+    <iframe 
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdQJs94h4g7yZ3DQZiXta07kaQgJl-i7uMO0FRf2J5M73F02g/viewform?embedded=true" 
+        class="iframe-container" 
+        title="Form Content">
+        <p>Your browser does not support iframes.</p>
+    </iframe>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-left">
+                <h4>Privacy & Terms</h4>
+                <ul>
+                    <li><button class="text-btn" onclick="fetchText('terms')">Terms & Conditions</button></li>
+                    <li><button class="text-btn" onclick="fetchText('refunds')">Returns & Refund</button></li>
+                    <li><button class="text-btn" onclick="fetchText('privacy')">Privacy Policy</button></li>
+                    <li><a href="contact-us.html" style="font-weight:bold; color:#722F37;">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="footer-right">
+                <p>Made with ❤️ in India</p>
+                <p>Use of this Site is subject to express terms of use. By using this site, you signify that you agree to be bound by these <button class="text-btn inline-btn" onclick="fetchText('terms')">Universal Terms & Conditions.</button></p>
+                <p class="copyright">All rights reserved © SRV Open Labs - 2026</p>
+                <p class="maintainer">Site designed and maintained by Das</p>
+            </div>
+        </div>
+    </footer>
+
+    <div id="textModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <h2 id="modal-title">Info</h2>
+            <pre id="modal-body">Loading...</pre>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

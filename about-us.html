@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - SRV Open Labs</title>
+    <link rel="icon" type="image/png" href="assets/logo.png">
+    
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <style>
+        /* Specific style for this page to push content down below fixed header */
+        .about-page-content {
+            margin-top: 100px;
+            min-height: 60vh; /* Ensures footer stays at bottom */
+        }
+        .about-text {
+            line-height: 1.8;
+            font-size: 1.05rem;
+            color: #444;
+        }
+        
+        /* Optional: Makes the "About Us" button bold to show we are on this page */
+        .current-page-link {
+            font-weight: 700 !important;
+            color: #722F37 !important; /* Wine color to indicate active state */
+        }
+        
+        /* When header becomes Wine (scrolled), make the active link white */
+        header.scrolled .current-page-link {
+            color: white !important;
+        }
+    </style>
+</head>
+<body>
+
+    <header id="main-header"> 
+        <div class="logo-container">
+            <a href="index.html" style="text-decoration:none; display:flex; align-items:center;">
+                <img src="assets/logo.png" alt="Logo" class="logo">
+                <span class="site-name">SRV Bengali</span>
+            </a>
+        </div>
+        <nav>
+            <a href="about-us.html" class="nav-btn current-page-link">About Us</a>
+            <a href="join-us.html" class="nav-btn join-btn">Join Us</a>
+        </nav>
+    </header>
+
+    <div class="main-container about-page-content">
+        <div class="about-header">
+            <h1>About SRV Open Labs</h1>
+            <p class="lead-text">
+                Dedicated to creating modern software solutions and restoring digital heritage. 
+                <br>Our primary mission is simple but vital: <strong>making regional keyboards better.</strong>
+            </p>
+        </div>
+        
+        <div class="about-grid">
+            
+            <section class="about-card">
+                <h3><i class="fa-solid fa-landmark"></i> Our Heritage</h3>
+                <p>
+                    Our journey is rooted in the legacy of the <strong>SRV Web Development & Software Development Team</strong>, 
+                    which began around 2008 under the leadership of Sourav Maiti & Bidisa Pradhan. 
+                    While the original team has moved on to other ventures, the spirit of their work lives on.
+                </p>
+            </section>
+
+            <section class="about-card">
+                <h3><i class="fa-solid fa-rocket"></i> The New Era</h3>
+                <p>
+                    Founded in 2026, SRV Open Labs is a distinct, independent organization committed to continuing that original legacy. 
+                    We are an Open Source project currently focused on:
+                </p>
+                <ul class="about-list">
+                    <li>Modernizing old SRV ANSI Keyboard layouts & Fonts for Unicode.</li>
+                    <li>Restoring and preserving old SRV ANSI Keyboard layouts and Fonts.</li>
+                </ul>
+            </section>
+
+            <section class="about-card">
+                <h3><i class="fa-solid fa-users"></i> Join the Mission</h3>
+                <p>
+                    We are currently a small, passionate team. While we work hard to bridge the gap between old and new technologies, 
+                    our size means progress can sometimes take time. We appreciate your patience as you use our current Unicode layout.
+                </p>
+                <p style="margin-top: 15px;">
+                    <strong>Want to speed things up?</strong> You can support us by becoming an SRVian! Whether through code contributions 
+                    or community support, we welcome you to join us in keeping this mission alive. 😃
+                </p>
+            </section>
+
+        </div>
+    </div>
+    
+    <footer>
+        <div class="footer-content">
+            <div class="footer-left">
+                <h4>Privacy & Terms</h4>
+                <ul>
+                    <li><button class="text-btn" onclick="fetchText('terms')">Terms & Conditions</button></li>
+                    <li><button class="text-btn" onclick="fetchText('refunds')">Returns & Refund</button></li>
+                    <li><button class="text-btn" onclick="fetchText('privacy')">Privacy Policy</button></li>
+                    <li><a href="contact-us.html">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-right">
+                <p>Made with ❤️ in India</p>
+                <p>Use of this Site is subject to express terms of use. By using this site, you signify that you agree to be bound by these <button class="text-btn inline-btn" onclick="fetchText('terms')">Universal Terms & Conditions.</button></p>
+                <p class="copyright">All rights reserved © SRV Open Labs - 2026</p>
+                <p class="maintainer">Site designed and maintained by Das</p>
+            </div>
+        </div>
+    </footer>
+
+    <div id="textModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn" onclick="closeModal()">&times;</span>
+            <h2 id="modal-title">Info</h2>
+            <pre id="modal-body">Loading...</pre>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
